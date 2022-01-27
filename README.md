@@ -1,6 +1,6 @@
 # Hi there
 
-Welcome to my github, I'm [https://github.com/Carlos-Antunis]@Carlos-Antunis;
+Welcome to my github, I'm [@Carlos-Antunis](https://github.com/Carlos-Antunis);
 
 ## About me
 

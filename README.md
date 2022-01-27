@@ -13,7 +13,7 @@ Actually I'm working with Computational Physics in:
 
 1. Transport properties in low-dimensional systems with emphasis in Non-linear dynamic and rare events
 
-## Social midia and pages
+## Social
 
 To follow me:
 

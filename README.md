@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to my github, I'm @Carlos-Antunis, I'm currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Currently I'm learning and working in Computational Physics scientific research advised by Professor F. A. B. F. de Moura.
+Welcome to my github, I'm @Carlos-Antunis, I'm currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Currently I'm learning and working in Computational Physics scientific research advised by Professor Francisco A. B. F. de Moura.
 
 # Research lines
 

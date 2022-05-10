@@ -32,6 +32,8 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 
 <a align ="center" href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Antunis's GitHub stats" /></a>
 
+<a href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Antunis&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 </div>
 
 <b>Top Repositories</b>

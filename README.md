@@ -7,8 +7,10 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 
 ### Skills
 
-<div align="center">
+<b>My languages</b>
 
+<div align="center" margin-top="2.0rem">
+  
 <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img height="64" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fortran.svg" />
 <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -17,14 +19,21 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 
 </div>
 
+<b>Most used languages</b>
+
+<div align="center">
+
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&layout=compact&langs_count=7&theme=dark"/>
+
+</div>
+
 ### Badges
 
 <b>My GitHub Stats</b>
 
 <div align="center">
-
-<a align ="center" href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Antunis's GitHub stats" /></a>
-
+  
+<a href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Antunis's GitHub stats" /></a>
 <a href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Antunis&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 </div>

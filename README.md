@@ -10,13 +10,11 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 <b>My languages</b>
 
 <div align="center" margin-top="2.0rem">
-  
-<img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img height="64" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fortran.svg" />
-<img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-
+  <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="64" width="128" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fortran.svg" />
+  <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="64" width="128" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
 ### Badges
@@ -24,10 +22,8 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 <b>My GitHub Stats</b>
 
 <div align="center">
-  
-<a width = "45%" href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="Carlos-Antunis's GitHub stats" /></a>
-<a width = "45%" href="http://www.github.com/Carlos-Antunis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Carlos-Antunis&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <b>Top Repositories</b>

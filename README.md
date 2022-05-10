@@ -4,11 +4,10 @@ Hi, My name is Carlos Antunis
 Computational Physics enthusiast
 --------------------------------
 Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Along my graduation, i've worked with computational physics, and this turn my world vision, today, I'm nothing besides then an enthusiast, but computational physics will always have an important part in my life.
-*  I'm based in Marechal Deodoro, Alagoas.
-*  You can contact me at [crlsantnys@gmail.com](mailto:crlsantnys@gmail.com)
 
 ### Socials
 
+- You can contact me at [crlsantnys@gmail.com](mailto:crlsantnys@gmail.com)
 - [LattesCV](http://lattes.cnpq.br/2932038471929012)
 - [Twitter](https://twitter.com/Carlos_Antunis/)
 

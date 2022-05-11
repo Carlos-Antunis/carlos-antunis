@@ -15,11 +15,12 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 <b>My languages</b>
 
 <div align="center" margin-top="2.0rem">
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/fortran.svg" />
   <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 </div>
 
 ### Badges

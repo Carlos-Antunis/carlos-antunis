@@ -27,10 +27,10 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 <b>My GitHub Stats</b>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7"/>
 </div>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Carlos-Antunis/Metodos-Computacionais" align="v"><img align="left" height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Antunis&repo=Metodos-Computacionais&title_color=ef4444&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Carlos-Antunis/Metodos-Computacionais" align="v"><img align="left" height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Antunis&repo=Metodos-Computacionais&hide_border=true&locale=en" /></a></div>

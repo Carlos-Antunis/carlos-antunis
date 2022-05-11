@@ -28,6 +28,7 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 <b>My GitHub Stats</b>
 
 <div align="center">
+  <a href="https://https://github.com/Carlos-Antunis">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight"/>
 </div>

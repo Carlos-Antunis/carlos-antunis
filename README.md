@@ -3,7 +3,7 @@ Hi, My name is Carlos Antunis
 ===============================
 Computational Physics enthusiast
 --------------------------------
-Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Along my graduation, i've worked with computational physics, and this turn my world vision, today, I'm nothing besides then an enthusiast, but computational physics will always have an important part in my life.
+Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Along my graduation, i've worked with computational physics, and this turn my world view, today, I'm nothing besides then an enthusiast, but computational physics will always have an important part in my life.
 ### Socials
 
 - [LattesCV](http://lattes.cnpq.br/2932038471929012)

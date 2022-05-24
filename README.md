@@ -36,6 +36,6 @@ Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bac
 
 <div width="75%" align="center">
   <a href="https://github.com/Carlos-Antunis/Metodos-Computacionais">
-    <img align="left" height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Antunis&repo=Metodos-Computacionais&locale=en&theme=tokyonight" />
+    <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Antunis&repo=Metodos-Computacionais&locale=en&theme=tokyonight" />
   </a>
 </div>

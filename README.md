@@ -1,42 +1,50 @@
+# Hi, My name is Carlos Antunis
 
-Hi, My name is Carlos Antunis
-===============================
-Computational Physics enthusiast
---------------------------------
-Welcome to my github, I'm @Carlos-Antunis, currently a student of Physics at bacharelor degree in Universidade Federal de Alagoas - UFAL. Along my graduation, i've worked with computational physics, and this turn my world view, today, I'm nothing besides then an enthusiast, but computational physics will always have an important part in my life.
-### Socials
+## About me
 
-- [LattesCV](http://lattes.cnpq.br/2932038471929012)
+Welcome to my github, I'm Carlos Antunis. Currently I'm a graduating student of Physics at bachelor degree in Federal University of Alagoas - UFAL.
 
-- [Twitter](https://twitter.com/Carlos_Antunis/)
+### Computational Physics entusiast
 
-### Skills
+Along my graduation I've worked with Computational Physics, and this increase my world view a lot. Today, I'm nothing besides then an enthusiast in the area, however, but it will allways occupy an important part of my life.
 
-<b>My languages</b>
+#### Programming Languages
 
 <div align="center" margin-top="2.0rem">
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="48" width="96" style="color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
 
-### Badges
+### Learning Web Development
 
-<b>My GitHub Stats</b>
+Currently, due to some projects, I've been studying Web Development.
+
+#### Web Development Languages and Frameworks
+
+<div align="center" margin-top="2.0rem">
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+
+### Social
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carlos.phys/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Carlos_Antunis)
+
+### My Github stats
 
 <div align="center">
   <a href="https://github.com/Carlos-Antunis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
   </a>
-</div>
-
-<b>Top Repositories</b>
-
-<div width="75%" align="center">
-  <a href="https://github.com/Carlos-Antunis/Metodos-Computacionais">
-    <img align="left" height="135em" src="https://github-readme-stats.vercel.app/api/pin/?username=Carlos-Antunis&repo=Metodos-Computacionais&locale=en&theme=tokyonight" />
+  <a href="https://github.com/Carlos-Antunis">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight"/>
   </a>
 </div>

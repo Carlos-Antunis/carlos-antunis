@@ -11,7 +11,6 @@ Along my graduation I've worked with Computational Physics, and this increase my
 #### Programming Languages
 
 <div align="center" margin-top="2.0rem">
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -25,7 +24,6 @@ Currently, due to some projects, I've been studying Web Development.
 #### Web Development Languages and Frameworks
 
 <div align="center" margin-top="2.0rem">
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />

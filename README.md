@@ -31,10 +31,10 @@ Along my graduation I've worked with Computational Physics, and this increase my
 #### Programming Languages
 
 <div align="center" margin-top="2.0rem">
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img height="48" width="96" style="color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img height="48" width="72" style="color: white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
 
 ### Learning Web Development
@@ -44,8 +44,8 @@ Currently, due to some projects, I've been studying Web Development.
 #### Web Development Languages and Frameworks
 
 <div align="center" margin-top="2.0rem">
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 </div>

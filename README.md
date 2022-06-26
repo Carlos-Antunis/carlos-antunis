@@ -12,13 +12,16 @@ Welcome to my github, I'm Carlos Antunis. Currently I'm a graduating student of 
 ### Github stats
 
 <div align="center">
-
-![Carlos-Antunis GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&theme=tokyonight)
-
-<!--
-![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight&hide_border=true&card_width=300&custom_title=Usage%20of%20languages)
--->
-
+    <div>
+        <a href="https://github.com/Carlos-Antunis">
+            <img  width="450rem" src="https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&theme=tokyonight&hide_border=true" alt="Carlos-Antunis Github Stats" />
+        </a>
+    </div>
+    <div>
+        <a href="https://github.com/Carlos-Antunis">
+            <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Carlos-Antunis most used languages" />
+        </a>
+    </div>
 </div>
 
 ### Computational Physics entusiast

@@ -39,10 +39,7 @@ Currently, due to some projects, I've been studying Web Development.
 ### My Github stats
 
 <div align="center">
-  <a href="https://github.com/Carlos-Antunis">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlos-antunis&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Carlos-Antunis">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight"/>
-  </a>
+
+ ![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight)
+
 </div>

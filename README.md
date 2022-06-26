@@ -4,6 +4,23 @@
 
 Welcome to my github, I'm Carlos Antunis. Currently I'm a graduating student of Physics at bachelor degree in Federal University of Alagoas - UFAL.
 
+### Social
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carlos.phys/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Carlos_Antunis)
+
+### Github stats
+
+<div align="center">
+
+![Carlos-Antunis GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Antunis&show_icons=true&theme=tokyonight)
+
+<!--
+![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight&hide_border=true&card_width=300&custom_title=Usage%20of%20languages)
+-->
+
+</div>
+
 ### Computational Physics entusiast
 
 Along my graduation I've worked with Computational Physics, and this increase my world view a lot. Today, I'm nothing besides then an enthusiast in the area, however, but it will allways occupy an important part of my life.
@@ -28,18 +45,4 @@ Currently, due to some projects, I've been studying Web Development.
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img height="48" width="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</div>
-
-### Social
-
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carlos.phys/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Carlos_Antunis)
-
-### My Github stats
-
-<div align="center">
-
- ![Github most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=7&theme=tokyonight)
-
 </div>

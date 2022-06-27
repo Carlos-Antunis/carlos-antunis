@@ -6,8 +6,8 @@ Welcome to my github, I'm Carlos Antunis. Currently I'm a graduating student of 
 
 ### Social
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/carlos.phys/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Carlos_Antunis)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&?style=plastic&logoColor=white)](https://www.instagram.com/carlos.phys/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&l&?style=plastic&logoColor=white)](https://twitter.com/Carlos_Antunis)
 
 ### Github stats
 

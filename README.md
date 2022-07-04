@@ -41,11 +41,18 @@ Along my graduation I've worked with Computational Physics, and this increase my
 
 Currently, due to some projects, I've been studying Web Development.
 
-#### Web Development Languages and Frameworks
+#### Web Development Languages
 
 <div align="center" margin-top="2.0rem">
     <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
     <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
+
+#### Web Development Frameworks
+
+
+<div align="center" margin-top="2.0rem">
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img height="48" width="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>

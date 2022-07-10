@@ -36,7 +36,7 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
-class DeveloperStudent {
+class Developer {
     constructor(name, skills) {
         this.name = name;
         this.skills = skills;
@@ -59,7 +59,7 @@ class DeveloperStudent {
 
 }
 
-const Me = new DeveloperStudent("Carlos Antunis", {
+const Me = new Developer("Carlos Antunis", {
     knowledge: ["Physics", "Mathematics"],
     technologies: {
         learned: {

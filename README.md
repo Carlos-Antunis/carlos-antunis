@@ -19,7 +19,7 @@ Welcome to my github, I'm Carlos Antunis. Currently I'm a graduating student of 
     </div>
     <div>
         <a href="https://github.com/Carlos-Antunis">
-            <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=10&theme=tokyonight&hide_border=true&layout=compact" alt="Carlos-Antunis most used languages" />
+            <img width="450rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-antunis&langs_count=10&theme=tokyonight&hide_border=true&layout=compact&hide=fortran" alt="Carlos-Antunis most used languages" />
         </a>
     </div>
 </div>

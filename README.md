@@ -39,7 +39,7 @@ Along my graduation I've worked with Computational Physics, and this increase my
 
 ### Learning Web Development
 
-Currently, due to some projects, I've been studying Web Development.
+Currently, the area of Web Development has aroused my curiosity, because of that, I have recently studied the subject, learning the basic languages of the area, both for markup and styling and for programming web pages, in addition to some frameworks. Over time I want to deepen my knowledge of HTML, CSS and JS, as well as learn new frameworks used for web development.
 
 #### Web Development Languages
 

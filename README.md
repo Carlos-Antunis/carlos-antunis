@@ -40,7 +40,7 @@ class Developer {
     constructor(name, skills) {
         this.name = name;
         this.skills = skills;
-        this.energy = 10000000;
+        this.energy = 1000;
     }
 
     isWritingCode() {

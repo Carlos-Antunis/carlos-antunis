@@ -49,7 +49,7 @@ const I = new Developer("Carlos Antunis",
             programmingLanguages: [
                 "C",
                 "C++",
-                "python",
+                "Python",
                 "JavaScript"
             ],
             frontEnd: [

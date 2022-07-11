@@ -52,6 +52,7 @@ class Student {
         console.log(`${this.name} learned a new thing.`)
     }
 }
+
 class Developer extends Student {
     constructor(name, skills) {
         super(name);

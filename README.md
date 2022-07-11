@@ -38,7 +38,7 @@ For more information about me and how I behave, see my [source-code](./source-co
 ```javascript
 import Developer from "./developer.class.mjs";
 
-let I = new Developer("Carlos Antunis",
+const I = new Developer("Carlos Antunis",
     ["mathematics", "physics"],
     {
         learned: {

@@ -1,6 +1,6 @@
 import Developer from "./developer.class.mjs";
 
-let I = new Developer("Carlos Antunis",
+const I = new Developer("Carlos Antunis",
     ["mathematics", "physics"],
     {
         learned: {

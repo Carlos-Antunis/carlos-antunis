@@ -33,7 +33,7 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 
 ### Technologies
 
-If you are a computer and has node js installed, run the code below and know more about me, else ask a friendly human to describe me.
+If you are a computer and has node js installed, run the code below and know more about me, else, if you're a computer, ask for help of a friendly human to describe me, otherwise, you're a human, see below for more informations.
 
 ```javascript
 

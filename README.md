@@ -36,80 +36,33 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 For more information about me and how I behave, see my source-code below.
 
 ```javascript
+import { Developer } from "./developer.class.mjs";
 
-class Student {
-  constructor(name, knowledge) {
-    this.name = name;
-    this.knowledge = knowledge;
-    this.energy = 500;
-    this.cupsOfCoffee = 0;
-  }
-  learn(something) {
-    this.knowledge.push(something);
-  }
-  amTired() {
-    return (this.energy <= 100);
-  }
-  drinkCoffee() {
-    this.energy += 5;
-    this.cupsOfCoffee++;
-  }
-}
-class Developer extends Student {
-  constructor(name, knowledge, developmentSkills) {
-    super(name, knowledge);
-    this.developmentSkills;
-    this.percentageOfCodeCompleted = 0;
-    this.amountOfBugs = 0;
-  }
-  foundABug() {
-    if (Math.floor(3 * Math.random())) {
-      this.percentageOfCodeCompleted -= 5;
-      this.amountOfBugs++;
-      return true;
-    } else {
-      return false;
+let I = new Developer("Carlos Antunis",
+    ["mathematics", "physics"],
+    {
+        learned: {
+            devOps: ["bash"],
+            programmingLanguages: ["C", "C++", "python", "JavaScript"],
+            frontEnd: ["HTML 5", "CSS 3", "bootstrap 5", "tailwind CSS", "JavaScript"],
+        },
+        stillWantToLearn: {
+            frontEnd: ["React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
+            backEnd: ["Flask", "Django"],
+        },
     }
-  }
-  code() {
-    if (this.percentageOfCodeCompleted === 100) {
-      console.log(`${this.name} finished the source-code.`);
-      console.log(`He got ${this.amountOfBugs} new knowledges.`);
-      console.log(`(and anxiety due to the ${this.cupsOfCoffee} cups of coffee that he drinks.)`);
-      return false;
-    } else {
-      this.energy -= 10*Math.floor(3 * Math.random());
-      this.percentageOfCodeCompleted += 5;
-      return true;
-    }
-  }
-}
-
-let I = new Developer( "Carlos Antunis",
-  ["mathematics", "physics"],
-  {
-    learned: {
-      devOps: ["bash"],
-      programmingLanguages: ["C", "C++", "python", "JavaScript"],
-      frontEnd: ["HTML 5", "CSS 3", "bootstrap 5", "tailwind CSS", "JavaScript"],
-    },
-    stillWantToLearn: {
-      frontEnd: ["React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
-      backEnd: ["Flask", "Django"],
-    },
-  }
 );
 
 while (I.code()) {
-  if (I.amTired()) {
-    I.drinkCoffee();
-  } else {
-    if (I.foundABug()) {
-      I.learn("how to fix it");
+    if (I.amTired()) {
+        I.drinkCoffee();
+        continue;
     } else {
-      continue;
+        if (I.foundABug()) {
+            I.learn("how to fix it");
+        } else {
+            continue;
+        }
     }
-  }
 }
-
 ```

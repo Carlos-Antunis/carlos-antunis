@@ -36,6 +36,7 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
+
 class Student {
     constructor(name, knowledge) {
         this.name = name;
@@ -45,8 +46,8 @@ class Student {
         this.cupsOfCoffeeDrinked = 0;
     }
 
-    learn() {
-        this.knowledge.push("New thing");
+    learn(anything) {
+        this.knowledge.push(anything);
         this.amountOfLearnedKnowledge++;
     }
 
@@ -100,8 +101,8 @@ let I = new Developer("Carlos Antunis", ["Physics", "Mathematics"], {
 while (I.amWritingCode()) 
 {
     if (hasBugs()) {
-        I.learn();
-    } 
+        I.learn('how to fix');
+    }
     I.drinkCoffee();
 }
 I.finishTheCode();

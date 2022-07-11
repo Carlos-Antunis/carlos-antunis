@@ -33,7 +33,7 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 
 ### Technologies
 
-Below has a description of me as a JavaScript code (If you are a computer and has node js installed):
+If you are a computer and has node js installed, run the code below and know more about me, else ask a friendly human to describe me.
 
 ```javascript
 

@@ -36,6 +36,12 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
+
+const randomIntBetween0and3 = () => {
+    //Generate a random integer between [0, 1, 2]
+    return Math.floor(3 * Math.random());
+}
+
 class Student {
     constructor(name, knowledge) {
         this.name = name;
@@ -74,11 +80,6 @@ class Developer extends Student {
     finishTheCode() {
         console.log(`${this.name} finished the source-code with ${this.amountOfLearnedKnowledge} new knowledges, and anxiety (due to ${this.cupsOfCoffeeDrinked} cups of coffee that he drinks).`);
     }
-}
-
-const randomIntBetween0and3 = () => {
-    //Generate a random integer between [0, 1, 2]
-    return Math.floor(3 * Math.random());
 }
 
 function hasBugs() {

@@ -49,7 +49,7 @@ class Student {
     }
 
     learn() {
-        console.log(`${this.name} learned a new thing.`)
+        console.log(`${this.name} learned a new thing.`);
     }
 }
 
@@ -68,7 +68,7 @@ class Developer extends Student {
         }
     }
 
-    finishCoding() {
+    finishTheCode() {
         console.log(`${this.name} finished the souce-code with new knowledges.`);
     }
 }
@@ -92,5 +92,6 @@ while (I.amWritingCode()) {
     I.learn();
     I.drinkCoffee();
 }
-I.finishCoding();
+I.finishTheCode();
+
 ```

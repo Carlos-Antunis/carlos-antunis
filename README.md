@@ -54,9 +54,9 @@ class Student {
 }
 
 class Developer extends Student {
-    constructor(name, skills) {
+    constructor(name, knowledge) {
         super(name);
-        this.skills = skills;
+        this.knowledge = knowledge;
     }
 
     amWritingCode() {
@@ -73,9 +73,9 @@ class Developer extends Student {
     }
 }
 
-const I = new Developer("Carlos Antunis", {
-    knowledge: ["Physics", "Mathematics"],
-    technologies: {
+let I = new Developer("Carlos Antunis", {
+    science: ["Physics", "Mathematics"],
+    developmentTechnologies: {
         learned: {
             frontEnd: ["Html 5", "CSS 3", "Bootstrap 5", "Tailwind CSS", "JavaScript"],
             devOps: ["Bash"],

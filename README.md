@@ -42,7 +42,10 @@ let I = new Developer("Carlos Antunis",
     ["mathematics", "physics"],
     {
         learned: {
-            devOps: ["bash"],
+            devOps: [
+                "bash",
+                "github"
+            ],
             programmingLanguages: [
                 "C",
                 "C++",

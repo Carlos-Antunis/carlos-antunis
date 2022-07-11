@@ -54,9 +54,9 @@ class Student {
 }
 
 class Developer extends Student {
-    constructor(name, knowledge) {
+    constructor(name, skills) {
         super(name);
-        this.knowledge = knowledge;
+        this.skills = skills;
     }
 
     amWritingCode() {

@@ -43,13 +43,13 @@ class Student {
         this.energy = 1000;
     }
 
+    learn() {
+        console.log(`${this.name} learned a new thing.`);
+    }
+
     drinkCoffee() {
         console.log(`${this.name} drink a cup of Coffee.`);
         this.energy += 5;
-    }
-
-    learn() {
-        console.log(`${this.name} learned a new thing.`);
     }
 }
 

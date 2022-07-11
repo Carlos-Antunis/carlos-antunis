@@ -1,4 +1,4 @@
-import { Developer } from "./developer.class.mjs";
+import Developer from "./developer.class.mjs";
 
 let I = new Developer("Carlos Antunis",
     ["mathematics", "physics"],

@@ -21,7 +21,7 @@ class Student {
     }
 }
 
-export class Developer extends Student {
+export default class Developer extends Student {
     constructor(name, knowledge, developmentSkills) {
         super(name, knowledge);
         this.developmentSkills = developmentSkills;

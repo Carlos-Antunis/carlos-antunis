@@ -36,7 +36,7 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 For more information about me and how I behave, see my [source-code](./source-code-of-me/me.mjs) below.
 
 ```javascript
-import { Developer } from "./developer.class.mjs";
+import Developer from "./developer.class.mjs";
 
 let I = new Developer("Carlos Antunis",
     ["mathematics", "physics"],

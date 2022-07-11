@@ -94,7 +94,7 @@ let I = new Developer("Carlos Antunis", ["Physics", "Mathematics"], {
         programmingLanguages: ["C", "C++", "Python", "JavaScript"],
     },
     stillWantToLearn: {
-        frontEnd: ["Bulma", "React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
+        frontEnd: ["Bulma", "Materialize CSS" , "React", "Vue", "Angular", "Chakra UI", "Material UI", "Radix UI", "Next.js", "Electron", "React-native"],
         backEnd: ["Flask", "Django"],
     },
 });

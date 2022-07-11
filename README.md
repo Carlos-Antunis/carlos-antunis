@@ -36,32 +36,35 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
-
 class Student {
-    constructor(name) {
+    constructor(name, knowledge) {
         this.name = name;
-        this.energy = 1000;
+        this.knowledge = knowledge;
+        this.energy = 500;
+        this.amountOfLearnedKnowledge = 0;
+        this.cupsOfCoffeeDrinked = 0;
     }
 
     learn() {
-        console.log(`${this.name} learned a new thing.`);
+        this.knowledge.push("New thing");
+        this.amountOfLearnedKnowledge++;
     }
 
     drinkCoffee() {
-        console.log(`${this.name} drink a cup of Coffee.`);
         this.energy += 5;
+        this.cupsOfCoffeeDrinked++;
     }
 }
 
 class Developer extends Student {
-    constructor(name, skills) {
-        super(name);
-        this.skills = skills;
+    constructor(name, knowledge, developmentTechnologies) {
+        super(name, knowledge);
+        this.developmentTechnologies = developmentTechnologies;
     }
 
     amWritingCode() {
         if (this.energy >= 100) {
-            this.energy -= 10;
+            this.energy -= 10*randomInt(3);
             return true;
         } else {
             return false;
@@ -69,27 +72,36 @@ class Developer extends Student {
     }
 
     finishTheCode() {
-        console.log(`${this.name} finished the souce-code with new knowledges.`);
+        console.log(`${this.name} finished the source-code with ${this.amountOfLearnedKnowledge} new knowledges, and anxiety (due to ${this.cupsOfCoffeeDrinked} cups of coffee that he drinks).`);
     }
 }
 
-let I = new Developer("Carlos Antunis", {
-    science: ["Physics", "Mathematics"],
-    developmentTechnologies: {
-        learned: {
-            frontEnd: ["Html 5", "CSS 3", "Bootstrap 5", "Tailwind CSS", "JavaScript"],
-            devOps: ["Bash"],
-            programmingLanguages: ["C", "C++", "Python", "JavaScript"],
-        },
-        stillWantToLearn: {
-            frontEnd: ["Bulma", "React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
-            backEnd: ["Flask", "Django"],
-        },
+const randomInt = (range) => {
+    //Generate a random integer between 0 and range
+    return Math.floor(range * Math.random());
+}
+
+function hasBugs() {
+    return (randomInt(3) >= 2) ? true : false;
+}
+
+let I = new Developer("Carlos Antunis", ["Physics", "Mathematics"], {
+    learned: {
+        frontEnd: ["Html 5", "CSS 3", "Bootstrap 5", "Tailwind CSS", "JavaScript"],
+        devOps: ["Bash"],
+        programmingLanguages: ["C", "C++", "Python", "JavaScript"],
+    },
+    stillWantToLearn: {
+        frontEnd: ["Bulma", "React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
+        backEnd: ["Flask", "Django"],
     },
 });
 
-while (I.amWritingCode()) {
-    I.learn();
+while (I.amWritingCode()) 
+{
+    if (hasBugs()) {
+        I.learn();
+    } 
     I.drinkCoffee();
 }
 I.finishTheCode();

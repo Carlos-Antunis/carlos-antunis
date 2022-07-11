@@ -41,7 +41,7 @@ export default class Developer extends Student {
         if (this.percentageOfCodeCompleted === 100) {
             console.log(`${this.name} finished the source-code.`);
             console.log(`He got ${this.amountOfBugs} new knowledges.`);
-            console.log(`(and anxiety due to the ${this.cupsOfCoffee} cups of coffee that he drinks.)`);
+            console.log(`(and anxiety due to the ${this.cupsOfCoffee} cups of coffee that he drinked.)`);
             return false;
         } else {
             this.energy -= 10 * randomInteger();

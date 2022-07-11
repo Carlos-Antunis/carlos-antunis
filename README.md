@@ -36,7 +36,6 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
-
 class Student {
     constructor(name, knowledge) {
         this.name = name;
@@ -65,7 +64,7 @@ class Developer extends Student {
 
     amWritingCode() {
         if (this.energy >= 100) {
-            this.energy -= 10*randomInt(3);
+            this.energy -= 10*randomIntBetween0and3();
             return true;
         } else {
             return false;
@@ -77,13 +76,14 @@ class Developer extends Student {
     }
 }
 
-const randomInt = (range) => {
-    //Generate a random integer between 0 and range
-    return Math.floor(range * Math.random());
+const randomIntBetween0and3 = () => {
+    //Generate a random integer between [0, 1, 2]
+    return Math.floor(3 * Math.random());
 }
 
 function hasBugs() {
-    return (randomInt(3) >= 2) ? true : false;
+    //If a random integer between 0 and 2 are greater than 1
+    return (randomIntBetween0and3() > 1) ? true : false;
 }
 
 let I = new Developer("Carlos Antunis", ["Physics", "Mathematics"], {

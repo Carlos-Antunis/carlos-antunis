@@ -33,79 +33,83 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 
 ### Technologies
 
-If you are a computer and has node js installed, run the code below and know more about me, else, if you're a computer, ask for help of a friendly human to describe me, otherwise, you're a human, see below for more informations.
+For more information about me and how I behave, see my source-code below.
 
 ```javascript
 
-const randomIntBetween0and3 = () => {
-    //Generate a random integer between [0, 1, 2]
-    return Math.floor(3 * Math.random());
-}
-
 class Student {
-    constructor(name, knowledge) {
-        this.name = name;
-        this.knowledge = knowledge;
-        this.energy = 500;
-        this.amountOfLearnedKnowledge = 0;
-        this.cupsOfCoffeeDrinked = 0;
-    }
-
-    learn(anything) {
-        this.knowledge.push(anything);
-        this.amountOfLearnedKnowledge++;
-    }
-
-    drinkCoffee() {
-        this.energy += 5;
-        this.cupsOfCoffeeDrinked++;
-    }
+  constructor(name, knowledge) {
+    this.name = name;
+    this.knowledge = knowledge;
+    this.energy = 500;
+    this.cupsOfCoffee = 0;
+  }
+  learn(something) {
+    this.knowledge.push(something);
+  }
+  amTired() {
+    return (this.energy <= 100);
+  }
+  drinkCoffee() {
+    this.energy += 5;
+    this.cupsOfCoffee++;
+  }
 }
-
 class Developer extends Student {
-    constructor(name, knowledge, developmentTechnologies) {
-        super(name, knowledge);
-        this.developmentTechnologies = developmentTechnologies;
+  constructor(name, knowledge, developmentSkills) {
+    super(name, knowledge);
+    this.developmentSkills;
+    this.percentageOfCodeCompleted = 0;
+    this.amountOfBugs = 0;
+  }
+  foundABug() {
+    if (Math.floor(3 * Math.random())) {
+      this.percentageOfCodeCompleted -= 5;
+      this.amountOfBugs++;
+      return true;
+    } else {
+      return false;
     }
-
-    amWritingCode() {
-        if (this.energy >= 100) {
-            this.energy -= 10*randomIntBetween0and3();
-            return true;
-        } else {
-            return false;
-        }
+  }
+  code() {
+    if (this.percentageOfCodeCompleted === 100) {
+      console.log(`${this.name} finished the source-code.`);
+      console.log(`He got ${this.amountOfBugs} new knowledges.`);
+      console.log(`(and anxiety due to the ${this.cupsOfCoffee} cups of coffee that he drinks.)`);
+      return false;
+    } else {
+      this.energy -= 10*Math.floor(3 * Math.random());
+      this.percentageOfCodeCompleted += 5;
+      return true;
     }
-
-    finishTheCode() {
-        console.log(`${this.name} finished the source-code with ${this.amountOfLearnedKnowledge} new knowledges and anxiety (due to ${this.cupsOfCoffeeDrinked} cups of coffee that he drinks).`);
-    }
+  }
 }
 
-function hasBugs() {
-    //If a random integer between 0 and 2 are greater than 1
-    return (randomIntBetween0and3() > 1) ? true : false;
-}
-
-let I = new Developer("Carlos Antunis", ["Physics", "Mathematics"], {
+let I = new Developer( "Carlos Antunis",
+  ["mathematics", "physics"],
+  {
     learned: {
-        frontEnd: ["Html 5", "CSS 3", "Bootstrap 5", "Tailwind CSS", "JavaScript"],
-        devOps: ["Bash"],
-        programmingLanguages: ["C", "C++", "Python", "JavaScript"],
+      devOps: ["bash"],
+      programmingLanguages: ["C", "C++", "python", "JavaScript"],
+      frontEnd: ["HTML 5", "CSS 3", "bootstrap 5", "tailwind CSS", "JavaScript"],
     },
     stillWantToLearn: {
-        frontEnd: ["Bulma", "Materialize CSS" , "React", "Vue", "Angular", "Chakra UI", "Material UI", "Radix UI", "Next.js", "Electron", "React-native"],
-        backEnd: ["Flask", "Django"],
+      frontEnd: ["React", "Vue", "Angular", "Next.js", "Electron", "React-native"],
+      backEnd: ["Flask", "Django"],
     },
-});
+  }
+);
 
-while (I.amWritingCode()) 
-{
-    if (hasBugs()) {
-        I.learn('how to fix');
-    }
+while (I.code()) {
+  if (I.amTired()) {
     I.drinkCoffee();
+  } else {
+    if (I.foundABug()) {
+      I.learn("how to fix it");
+    } else {
+      continue;
+    }
+  }
 }
-I.finishTheCode();
 
 ```

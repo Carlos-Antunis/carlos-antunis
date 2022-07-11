@@ -12,11 +12,11 @@ I'm a graduating student of Physics at bachelor degree in Federal University of 
 
 ### Computational Physics entusiast
 
-Along my graduation I've worked with Computational Physics, and this increase my world view a lot. Today, I'm nothing besides then an enthusiast in the area, however, but it will allways occupy an important part of my life.
+Along my graduation I've worked with Computational Physics, and this increase my world view a lot. Today, I'm nothing besides then an enthusiast in the area, however, it will allways occupy an important part of my life.
 
 ### Learning Web Development
 
-Currently, the area of Web Development has aroused my curiosity, because of that, I have recently studied the subject, learning the basic languages of the area, both for markup and styling and for programming web pages, in addition to some frameworks. Over time I want to deepen my knowledge of HTML, CSS and JS, as well as learn new frameworks used for web development.
+Currently, the area of Web Development has aroused my curiosity, because of that, I have been studying this subject, learning the basic languages, both for markup and stylization and for programming web pages, in addition to some frameworks. Over time I want to deepen my knowledge of HTML, CSS and JS, besides to learn new frameworks used for web development.
 
 ### Github stats
 

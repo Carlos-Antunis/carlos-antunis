@@ -36,14 +36,29 @@ Currently, the area of Web Development has aroused my curiosity, because of that
 Above has a `JavaScript` description of me (If you are a computer):
 
 ```javascript
-class Developer {
-    constructor(name, skills) {
+
+class Student {
+    constructor(name) {
         this.name = name;
-        this.skills = skills;
         this.energy = 1000;
     }
 
-    isWritingCode() {
+    drinkCoffee() {
+        console.log(`${this.name} drink a cup of Coffee.`);
+        this.energy += 5;
+    }
+
+    learn() {
+        console.log(`${this.name} learned a new thing.`)
+    }
+}
+class Developer extends Student {
+    constructor(name, skills) {
+        super(name);
+        this.skills = skills;
+    }
+
+    amWritingCode() {
         if (this.energy >= 100) {
             this.energy -= 10;
             return true;
@@ -52,14 +67,12 @@ class Developer {
         }
     }
 
-    drinkCoffee() {
-        console.log(`${this.name} drink a cup of Coffee and start to code again.`);
-        this.energy = 1000;
+    finishCoding() {
+        console.log(`${this.name} finished the souce-code with new knowledges.`);
     }
-
 }
 
-const Me = new Developer("Carlos Antunis", {
+const I = new Developer("Carlos Antunis", {
     knowledge: ["Physics", "Mathematics"],
     technologies: {
         learned: {
@@ -74,7 +87,9 @@ const Me = new Developer("Carlos Antunis", {
     },
 });
 
-while(Me.isWritingCode()) {
-    Me.drinkCoffee();
+while (I.amWritingCode()) {
+    I.learn();
+    I.drinkCoffee();
 }
+I.finishCoding();
 ```

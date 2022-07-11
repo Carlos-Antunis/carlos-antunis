@@ -78,7 +78,7 @@ class Developer extends Student {
     }
 
     finishTheCode() {
-        console.log(`${this.name} finished the source-code with ${this.amountOfLearnedKnowledge} new knowledges, and anxiety (due to ${this.cupsOfCoffeeDrinked} cups of coffee that he drinks).`);
+        console.log(`${this.name} finished the source-code with ${this.amountOfLearnedKnowledge} new knowledges and anxiety (due to ${this.cupsOfCoffeeDrinked} cups of coffee that he drinks).`);
     }
 }
 
